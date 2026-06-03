@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shyampauldeepak&label=Profile+Views&color=70a5fd&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=thunderk2410&label=Profile+Views&color=70a5fd&style=flat-square" />
   <a href="https://linkedin.com/in/shyam-paul-deepak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shyampauldeepak@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/shyampauldeepak"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:thunderk2410@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/thunderk2410"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -101,11 +101,11 @@ class ShyamDeepakPaul:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/shyampauldeepak">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=shyampauldeepak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <a href="https://github.com/thunderk2410">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=thunderk2410&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
-  <a href="https://github.com/shyampauldeepak">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyampauldeepak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <a href="https://github.com/thunderk2410">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderk2410&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
@@ -114,7 +114,7 @@ class ShyamDeepakPaul:
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shyampauldeepak&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=thunderk2410&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ class ShyamDeepakPaul:
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyampauldeepak&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunderk2410&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </p>
 
 ---
@@ -130,7 +130,7 @@ class ShyamDeepakPaul:
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyampauldeepak&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thunderk2410&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </p>
 
 ---
